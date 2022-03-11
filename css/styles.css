@@ -82,7 +82,7 @@ a, a:hover {
     background-color: var(--white);
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    min-height: 150px;
+    min-height: 170px;
 }
 
 .dsmovie-card-description h3 {
@@ -103,4 +103,11 @@ a, a:hover {
     align-items: center;
     justify-content: center;  
     border-radius: 4px;  
+}
+
+/* formulário */
+
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 480px;
 }
